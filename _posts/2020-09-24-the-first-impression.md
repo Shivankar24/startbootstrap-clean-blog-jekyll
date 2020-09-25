@@ -1,4 +1,10 @@
-<!-- wp:paragraph -->
+---
+layout: post
+title: "The first impression"
+subtitle: "of the United States"
+date: 2020-09-24 10:45:13 -0400
+background: '/img/posts/06.jpg'
+---
 <p>Chapter 3</p>
 <!-- /wp:paragraph -->
 
